@@ -1,5 +1,4 @@
-## Hi there 👋
+<h1 align="center">👋 Hey! I’m <a href="https://alvaro-mediina.github.io/Portfolio">Alvaro Medina</a></h1>
 
-- 📖 I’m currently studing on computer cience.
-- 🔭 I’m currently working on growth as a programmer.
-
+- 🤓 Computer Cience student.
+- 🌱 I’m currently working on growth as a programmer.
