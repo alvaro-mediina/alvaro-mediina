@@ -3,7 +3,7 @@
 ## About
 - 🥳 I’m 21 years old.
 - 🤓 Computer Cience student.
-- 📖 Currently in the 3rd year of university.
+- 📖 Currently in 3rd year of university.
 
 ## Tech Stack
 ![Static Badge](https://img.shields.io/badge/Haskell-%235B2C6F%20?style=for-the-badge&logo=haskell) ![Static Badge](https://img.shields.io/badge/language-%2321618C?style=for-the-badge&logo=C) ![Static Badge](https://img.shields.io/badge/language-%2321618C?style=for-the-badge&logo=C%2B%2B)
