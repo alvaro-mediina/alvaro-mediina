@@ -15,7 +15,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23E5E8E8?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://www.linkedin.com/in/alvaro-santiago-medina-658688283/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%232874A6?style=for-the-badge&logo=linkedin&logoColor=hsl"></a>
-  <a href="https://www.facebook.com/alvaro.mediina21">
+  <a href="https://www.instagram.com/alvaro.mediina/">
   <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E5E8E8?style=for-the-badge&logo=instagram&logoColor=hsl"></a>
 </div>
 
