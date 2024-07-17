@@ -1,11 +1,12 @@
-<h1 align="center"> Hey! I’m <a href="https://alvaro-mediina.github.io/Portfolio">Alvaro Medina</a> 👋🏽</h1>
-
+<h1 align="center"> 😁 Hey! I’m <a href="https://alvaro-mediina.github.io/Portfolio">Alvaro Medina</a> 👋🏽</h1> 
 
 <h2>🙋🏽‍♂️ About</h2>
 <ul>
  <li>🥳 I’m 21 years old.</li>
  <li>🤓 Computer Cience student.</li>
  <li>📖 Currently in 3rd year of university.</li>
+ <li>🌵 Born in Jujuy, Argentina ✨🇦🇷 </li>
+ <li>📌 Living in Córdoba, Argentina ✨🇦🇷 </li>
 </ul>
 
 <h2>🌐 Social</h2>
@@ -32,4 +33,7 @@
   <img alt="BitBucket Badge" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket">
   <img alt="Git Badge" src="https://img.shields.io/badge/-Git-17202A?style=flat-square&logo=git">
 </div>
+
+<h2>🚀 Some Projects</h2>
+
 
