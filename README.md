@@ -10,7 +10,9 @@
 </ul>
 
 <h2>🌐 Social</h2>
-<div> 
+<div>
+  <a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%20%2327AE60?style=for-the-badge&logo=buffer&color=black"></a> 
   <a href="mailto:alvaro.mediina2003@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23E5E8E8?style=for-the-badge&logo=gmail&logoColor=red"></a>
   <a href="https://www.linkedin.com/in/alvaro-santiago-medina-658688283/">
