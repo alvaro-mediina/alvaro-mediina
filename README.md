@@ -11,7 +11,7 @@
 
 <h2>🌐 Social</h2>
 <div>
-  <a href="alvaro-mediina.github.io/Portfolio">
+  <a href="https://alvaro-mediina.github.io/Portfolio/">
   <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-%20%2327AE60?style=for-the-badge&logo=buffer&color=black"></a> 
   <a href="mailto:alvaro.mediina2003@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23E5E8E8?style=for-the-badge&logo=gmail&logoColor=red"></a>
