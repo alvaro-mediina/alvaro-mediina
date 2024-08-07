@@ -1,12 +1,12 @@
-<h1 align="center"> 😁 Hey! I’m <a href="https://alvaro-mediina.github.io/Portfolio">Alvaro Medina</a> 👋🏽</h1> 
+<h1 align="center"> 😁 ¡Hola! Soy <a href="https://alvaro-mediina.github.io/Portfolio">Alvaro Medina</a> 👋🏽</h1> 
 
-<h2>🙋🏽‍♂️ About</h2>
+<h2>🙋🏽‍♂️ Sobre mí</h2>
 <ul>
- <li>🥳 I’m 21 years old.</li>
- <li>🤓 Computer Cience student.</li>
- <li>📖 Currently in 3rd year of university.</li>
- <li>🌵 Born in Jujuy, Argentina ✨🇦🇷 </li>
- <li>📌 Living in Córdoba, Argentina ✨🇦🇷 </li>
+ <li>🥳 Tengo 21 years old.</li>
+ <li>🤓 Estudiante de Ciencias de la Computación.</li>
+ <li>📖 Actualmente en 3er año en la universidad.</li>
+ <li>🌵 Nacido en Jujuy, Argentina ✨🇦🇷 </li>
+ <li>📌 Viviendo en Córdoba, Argentina ✨🇦🇷 </li>
 </ul>
 
 <h2>🌐 Social</h2>
@@ -36,6 +36,6 @@
   <img alt="Git Badge" src="https://img.shields.io/badge/-Git-17202A?style=flat-square&logo=git">
 </div>
 
-<h2>🚀 Some Projects</h2>
+<h2>🚀 Algunos Proyectos</h2>
 
 
