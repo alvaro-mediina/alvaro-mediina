@@ -2,7 +2,7 @@
 
 <h2>🙋🏽‍♂️ Sobre mí</h2>
 <ul>
- <li>🥳 Tengo 21 years old.</li>
+ <li>🥳 Tengo 21 años</li>
  <li>🤓 Estudiante de Ciencias de la Computación.</li>
  <li>📖 Actualmente en 3er año en la universidad.</li>
  <li>🌵 Nacido en Jujuy, Argentina ✨🇦🇷 </li>
