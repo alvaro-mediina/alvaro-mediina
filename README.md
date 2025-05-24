@@ -1,9 +1,12 @@
 <img src="image.png" style="border-radius: 10px;">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-mediina&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-mediina&layout=compact&theme=gruvbox)](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-mediina&layout=compact&theme=gruvbox)
 
 
 
 <h2>🙋🏽‍♂️ Sobre mí</h2>
+
 <ul style="list-style-type: none; padding-left: 0;">
  <li>🥳 Tengo 21 años</li>
  <li>🤓 Estudiante de Ciencias de la Computación</li>
@@ -41,6 +44,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 </div>
 
 ## 💻 Frameworks y Librerías
@@ -55,7 +59,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 </div>
 
 ## ⚒️ Herramientas
