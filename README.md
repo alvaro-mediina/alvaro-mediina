@@ -10,7 +10,7 @@
 <ul style="list-style-type: none; padding-left: 0;">
  <li>🥳 Tengo 21 años</li>
  <li>🤓 Estudiante de Ciencias de la Computación</li>
- <li>📖 Actualmente en 3er año en la universidad</li>
+ <li>📖 Actualmente en 4er año en la universidad</li>
  <li>🌵 Nacido en Jujuy, Argentina ✨🇦🇷 </li>
  <li>📌 Viviendo en Córdoba, Argentina ✨🇦🇷 </li>
 </ul>
@@ -85,7 +85,3 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
-
-<h2>🚀 Algunos Proyectos</h2>
-
-
