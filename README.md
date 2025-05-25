@@ -1,7 +1,6 @@
 <img src="image.png" style="border-radius: 10px;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro-mediina&show_icons=true&theme=gruvbox)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-mediina&layout=donut&theme=gruvbox)](https://github.com/alvaro-mediina/github-readme-stats)
 
 
